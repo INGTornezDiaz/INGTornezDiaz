@@ -7,7 +7,7 @@ Apolinar Tornez Diaz</a></h1>
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif">
+  <img align="right" height="300" width="400" alt="Developer GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </a>
 
 - 🔭 I’m currently working on **Web Development projects**
