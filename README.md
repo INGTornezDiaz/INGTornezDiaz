@@ -2,9 +2,9 @@
 Apolinar Tornez Diaz</a></h1>
 <h3 align="center">A passionate Web Developer from Mexico 🇲🇽</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="TU_USUARIO" /> </p>
-
-<p align="left"> <a href="https://twitter.com/TU_USUARIO" target="blank"><img src="https://img.shields.io/twitter/follow/TU_USUARIO?logo=twitter&style=for-the-badge" alt="TU_USUARIO" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=INGTornezDiaz&label=Profile%20views&color=0e75b6&style=flat" alt="INGTornezDiaz" /> 
+</p>
 
 <a target="_blank" align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
@@ -31,15 +31,13 @@ Apolinar Tornez Diaz</a></h1>
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
- <div align="center" class="icons-social">
+
 <a target="_blank" href="https://www.linkedin.com/in/apolinar-tornez">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
 <a target="_blank" href="https://github.com/INGTornezDiaz">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
-
- </div>
 </p>
 
 ---
