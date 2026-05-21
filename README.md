@@ -33,26 +33,13 @@ Apolinar Tornez Diaz</a></h1>
 <p align="center">
  <div align="center" class="icons-social">
 
-        <a target="_blank" href="https://www.linkedin.com/">
+        <a target="_blank" href="www.linkedin.com/in/apolinar-tornez">
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
-        <a target="_blank" href="https://github.com/">
+        <a target="_blank" href="[https://github.com](https://github.com/INGTornezDiaz)/">
             <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
-        <a target="_blank" href="https://stackoverflow.com/">
-            <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 
-        <a target="_blank" href="#">
-            <img src="https://img.icons8.com/external-sketchy-juicy-fish/40/000000/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-
-        <a target="_blank" href="https://instagram.com/">
-            <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-
-        <a target="_blank" href="https://twitter.com/">
-            <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png"></a>
-
-        <a target="_blank" href="https://youtube.com/">
-            <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"></a>
 
  </div>
 </p>
