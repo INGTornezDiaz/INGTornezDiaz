@@ -32,13 +32,11 @@ Apolinar Tornez Diaz</a></h1>
 
 <p align="center">
  <div align="center" class="icons-social">
+<a target="_blank" href="https://www.linkedin.com/in/apolinar-tornez">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
-        <a target="_blank" href="www.linkedin.com/in/apolinar-tornez">
-            <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-
-        <a target="_blank" href="[https://github.com](https://github.com/INGTornezDiaz)/">
-            <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-
+<a target="_blank" href="https://github.com/INGTornezDiaz">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
 
  </div>
